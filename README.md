@@ -142,6 +142,7 @@ Lightweight command-line tools for AI-assisted commits, shell translation, and w
 
 ## Web-Based Tools
 
+- [Ideoy](https://ideoy.ai) - AI meme video remakes from one selfie (one selfie → this week's viral templates → MiniMax H3 → 9:16).
 ### App Builders
 
 Platforms that scaffold and deploy full-stack applications from natural language prompts:
